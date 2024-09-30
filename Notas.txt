@@ -1,1 +1,2 @@
 Realizando trabalho DevOps
+v1.0: Atualizado a integração com o Discord
